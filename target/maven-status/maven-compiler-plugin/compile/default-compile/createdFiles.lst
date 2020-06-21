@@ -1,0 +1,11 @@
+model\UnprocessException.class
+service\ValidationService.class
+model\ResponseErrorDTO.class
+service\UserService.class
+application\ServletInitializer.class
+application\MobileRegisterApplication.class
+model\BadRequestException.class
+application\MobileRegisterController.class
+model\ResponseDTO.class
+service\FirebaseService.class
+model\User.class
